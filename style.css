@@ -99,8 +99,8 @@ h2 {
 }
 /* 프로필 이미지 크기 조절 */
 .profileImage {
-    width: 120px;          /* 원하는 크기로 조절 */
-    height: 120px;
+    width: 150px;          /* 원하는 크기로 조절 */
+    height: 150px;
     object-fit: cover;
     border-radius: 50%;    /* 동그랗게 만들기 */
     margin-bottom: 20px;
