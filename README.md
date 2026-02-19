@@ -131,7 +131,7 @@ vibe-coding/
 **캡처 방법 예시**  
 1. `index.html`을 브라우저로 연다.  
 2. **전체 페이지** 또는 **보이는 영역**을 캡처한다. (Windows: **Win + Shift + S**, Mac: **Cmd + Shift + 4** 등)  
-3. 이 README가 있는 폴더에 이미지 파일(예: `screenshot.png`)로 저장한 뒤, 아래처럼 마크다운으로 넣을 수 있다.
+3. 이 README.md가 있는 폴더에 이미지 파일(예: `screenshot.png`)로 저장한 뒤, 아래처럼 마크다운으로 넣을 수 있다.
 
 ```markdown
 ![메인 명함 화면](screenshot.png)
